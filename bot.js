@@ -41,4 +41,4 @@ falsteni.user.setAvatar(`https://cdn.discordapp.com/attachments/4808845255058391
 }
 });
 	
-falsteni.login('NTE1MjI5NTMwNDMzMTI2NDAx.DtiFOA.Bb6oPYXOYapKSSe-Zg0L7RQI35Q');
+falsteni.login('NTE1MjM2ODk5MTIwNjExMzM4.DtiLrw.L5HjIVTmb9zoB0zKTWmJxloY5X8');
